@@ -1,6 +1,6 @@
 # Environmental Informatics
 
-## Assignment 01 - introduction to the Python Programming Language
+## Assignment 01 - Introduction to the Python Programming Language
 
 ### Reading Assignment
 
