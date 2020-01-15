@@ -53,5 +53,5 @@
 2. **Think Python Chapter 3: Exercise 3.3.**  
 
    - **Note** In earlier editions of the Think Python book this was numbered Exercise 3.5, as activities within the chapter were also numbered and the first exercise at the end of the chapter was not numbered starting at 1.
-   - Save your program as Exercise_3.3.py (if using Python directly) or Exercise_3.2.ipynb (if using Jupyter Notebook) for submission.
+   - Save your program as Exercise_3.3.py (if using Python directly) or Exercise_3.3.ipynb (if using Jupyter Notebook) for submission.
 
