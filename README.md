@@ -22,7 +22,7 @@
 #### Getting Started
 
 1. Change to the directory where you are going to save all of your class assignments.
-2. Clone this GitHUB repository (e.g., "git clone <http address>.git").  
+2. Clone this GitHUB repository (e.g., "git clone <http address>.git").  \[for more details, see [Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)\]
    - You can find the repository address to right side of the repository page, by clicking on the button that says "Clone or download".  
    - This should open a pulldown menu that says "Clone with HTTPS".  
    - If the window is labeled "Clone with SSH", then click on the link to the right of that message that says "Use HTTPS".  
