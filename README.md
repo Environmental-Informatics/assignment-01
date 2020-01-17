@@ -37,7 +37,7 @@
    - Use "git add <filename>" to stage a specific file (will turn from red to green next time you check the status).  Or use "git add ." to stage all files in the current directory (and its sub directories).
    - Staged files can be committed to the repository using the "git commit" command.  
      - Using "git commit" by itself will open an editor window where you can add a description of the changes made.  This will probably be emacs, so when done typing the description, then type \[Ctrl+x Ctrl+s\] or click on the disk icon to save the text, then close the window.
-     - Using "git commit -m "<message>" ", will let you type the message directly on the command line rather than waiting on the editor window to open.
+     - Using "git commit -m "\<message\>" ", will let you type the message directly on the command line rather than waiting on the editor window to open.
    - Finally use "git push" to push the code from your local system to the GitHUB repository.  This will require that you provide your GitHUB username and password.  
    - Once the changes have been pushed, you can see those changes when you reload the GitHUB web site.
    - You can clone the repository as many times to as many places as you want, by default it will always be the latest version.  However, changes that have not been "staged" to the local repository, "committed" to the local repositry, and "pushed" to the GitHUB repository, will not be reflected in a new clone.
